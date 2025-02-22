@@ -1,2 +1,3 @@
 # DataViz
-A collection of miscellaneous plots, graphs, and visualizations I've made over the years
+
+An assortment of plots, graphs, and visualizations from over the years
