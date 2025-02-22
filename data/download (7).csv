@@ -1,0 +1,16 @@
+"CAGDP11 Contributions to percent change in real GDP 1/"
+"(Percentage points)" 
+"Bureau of Economic Analysis" 
+"Metropolitan Statistical Area"
+"GeoFips","GeoName","LineCode","Description","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018"
+"35620","New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)","45","    Information",0.94,-0.10,0.42,0.13,0.08,0.82,0.39,0.41,0.62,0.13,0.14,0.52,0.23,0.75,0.61,0.17,0.68
+"35620","New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)","50","    Finance, insurance, real estate, rental, and leasing",-2.10,-0.77,0.50,2.37,0.99,-1.56,-3.53,5.43,1.33,-0.26,3.44,-1.42,0.54,-0.12,0.12,0.40,-0.96
+"35620","New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)","59","    Professional and business services",0.15,-0.02,"(D)","(D)","(D)",0.60,"(D)",-1.44,"(D)",0.52,0.56,"(D)","(D)",0.61,"(D)","(D)",0.54
+"35620","New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)","68","    Educational services, health care, and social assistance",0.19,0.31,0.33,0.10,0.24,0.00,0.43,0.27,0.10,0.09,0.10,0.12,0.17,0.30,0.21,0.18,0.39
+"35620","New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)","83","Government and government enterprises",0.05,0.09,0.15,0.01,-0.15,0.14,0.09,-0.01,0.00,-0.28,-0.10,0.16,-0.02,-0.17,0.02,0.12,0.59
+"Legend / Footnotes:"
+"1/ Industry detail is based on the 2012 North American Industry Classification System (NAICS)."
+"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget bulletin no. 18-04 issued September 14, 2018."
+"* Note: Percentage-point contributions do not sum to top line All industry total (percent change) because the industry details are calculated using source data and methodologies that differ from those used to calculate growth in the top-line, expenditure-based measure of real GDP."
+"(D) Not shown to avoid disclosure of confidential information; estimates are included in higher-level totals."
+"Last updated: December 12, 2019 -- new statistics for 2001-2018."
