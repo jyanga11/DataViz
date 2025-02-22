@@ -15,7 +15,7 @@ An assortment of plots, graphs, and visualizations from over the years
 <img src="scripts/matplotlib/letter_frequency_english.png" width="30%">
 <br><br>
 <img src="scripts/matplotlib/NBA Franchise Championships.png" width="30%">
-<img src="NBA_field_goal_attempts.png" width="30%">
+<img src="scripts/matplotlib/NBA_field_goal_attempts.png" width="30%">
 <img src="scripts/matplotlib/bitcoin_history.png" width="30%">
 <br><br>
 <img src="scripts/matplotlib/refugees_displaced.png" width="30%">
