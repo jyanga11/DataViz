@@ -20,7 +20,7 @@ An assortment of plots, graphs, and visualizations from over the years
 <br><br>
 <img src="scripts/matplotlib/refugees_displaced.png" width="30%">
 <img src="scripts/matplotlib/refugees_hosted.png" width="30%">
-<img src="scripts/matplotlib/populations_projections.png" width="30%">
+<img src="scripts/matplotlib/population_projections.png" width="30%">
 <br><br>
 <img src="scripts/matplotlib/emissions_by_region.png" width="30%">
 <img src="scripts/matplotlib/avg_price_cigarettes.png" width="30%">
